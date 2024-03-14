@@ -1,6 +1,6 @@
 {
-	"workbench.colorTheme": "Andromeda",
-	"workbench.iconTheme": "vscode-icons",
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.colorTheme": "Andromeda Italic Bordered",
 	"extensions.ignoreRecommendations": true,
 	"editor.fontSize": 14,
 	"editor.fontLigatures": true,
