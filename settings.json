@@ -1,8 +1,10 @@
 {
 	"workbench.iconTheme": "vscode-icons",
 	"workbench.colorTheme": "Andromeda Italic Bordered",
-	"extensions.ignoreRecommendations": true,
+	"editor.fontFamily": "JetBrains Mono",
+	"editor.lineHeight": 1.8,
 	"editor.fontSize": 14,
+	"workbench.startupEditor": "newUntitledFile",
 	"editor.fontLigatures": true,
 	"workbench.editor.labelFormat": "short",
 	"explorer.compactFolders": false,
